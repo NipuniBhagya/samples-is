@@ -55,4 +55,5 @@
             <outputDirectory>QSG-bundle/QSG/bin/09</outputDirectory>
         </file>
     </files>
+
 </assembly>
